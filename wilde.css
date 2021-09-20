@@ -1,0 +1,49 @@
+.speech
+{font-family: "Lucida Console", "Courier New", monospace;
+font-size: 20px;
+color: black;
+}
+.stage-direction
+{font-family: Cursive;
+font-size: 25px;
+background-color:lightsteelblue;
+}
+.stage-direction:hover
+{color: black;
+background-color: lightpink;
+}
+.president
+{font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+color:deeppink;
+}
+.firstconsp
+{font-family: "Times New Roman", Times, serif;
+font-size:20px;
+color: firebrick;
+}
+.secondconsp
+{ font-family: "Times New Roman", Times, serif;
+font-size: 20px;
+color: darkviolet;
+}
+.thirdconsp{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    color: darkmagenta; 
+}
+.fourthconsp{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    color: gold;
+}
+.fifthconsp{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    color: greenyellow;
+}
+.sixthconsp{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    color: chocolate;
+}
