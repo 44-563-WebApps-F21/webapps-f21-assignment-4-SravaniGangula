@@ -47,6 +47,21 @@ color: darkviolet;
     font-size:20px;
     color: chocolate;
 }
+.conspirators{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    color: darkcyan; 
+}
+.michael{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    color: darkorange;
+}
+.alexis{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    color: darkorchid;
+}
 table {
     background-color: bisque;
     font-family: arial, sans-serif;
