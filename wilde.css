@@ -47,17 +47,33 @@ color: darkviolet;
     font-size:20px;
     color: chocolate;
 }
+
 .conspirators{
     font-family: "Times New Roman", Times, serif;
     font-size:20px;
     color: darkcyan; 
+    
+}
+.conspirators:hover{
+    text-shadow: 8px 8px orangered;
+    border: 4px solid black;
+    display: inline;
+   
+}
+.michael:hover{
+    text-shadow: 2px 2px red;
 }
 .michael{
+    
     font-family: "Times New Roman", Times, serif;
     font-size:20px;
     color: darkorange;
 }
+.alexis:hover{
+    text-shadow: 2px 2px blue;
+}
 .alexis{
+   
     font-family: "Times New Roman", Times, serif;
     font-size:20px;
     color: darkorchid;
